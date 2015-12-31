@@ -1,2 +1,2 @@
 # HackerRank-master
-Java code for miscellaneous problems from HackerRank.
+This repository contains solutions in Java/Python for miscellaneous problems from HackerRank.
