@@ -1,0 +1,1 @@
+This repository contains solutions in Java/Python for coding contest named **30 Days of Code** from [HackerRank](https://www.hackerrank.com).
