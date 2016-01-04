@@ -27,7 +27,9 @@ Much of the structure of the code is given to you below, but in the future, you 
 First line contains T, number of test cases. Each test case contains an integer age, representing age of the person.
 
 **Constraints** 
+
 1≤T≤4 
+
 −5≤age≤30
 
 **Output Format**
@@ -52,37 +54,54 @@ If the age is equal or greater than 0, then your program should print out two li
 **Sample Output**
 
 This person is not valid, setting age to 0.
-You are young.
+
 You are young.
 
 You are young.
+
+
+You are young.
+
 You are a teenager.
 
+
 You are a teenager.
+
+You are old.
+
+
 You are old.
 
 You are old.
-You are old.
+
 
 **Explanation**
 
 For the first testcase, the age is less than 0 so we set the age to 0.Three years pass and the age is 3. So we print out:
 
 This person is not valid, setting age to 0.
+
 You are young.
+
 You are young.
+
 
 For the second testcase, the age is 10, which is considered young according to our program. Three years pass and the age is 13. 13 is considered a 'teenager' age so we print out:
 
 You are young.
+
 You are a teenager.
+
 
 For the third testcase, the age is 16, which is the age of a teenager. Three years pass and the age is 19. 19 is considered an 'old' age according to our program so we print out:
 
 You are a teenager.
+
 You are old.
+
 
 For the last testcase, the age is 18, which is considered an old age according to our program. Three years pass and the age is 21. 21 is still considered old so we print out:
 
 You are old.
+
 You are old.
