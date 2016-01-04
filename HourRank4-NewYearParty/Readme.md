@@ -6,7 +6,7 @@ If two guests arrive at same time, one guest must wait for the other to enter. I
 
 Given the arrival times for all n guests, determine the entry time of the last guest.
 
-**Input Format**
+#**Input Format**
 
 The first line contains an integer, n, denoting the number of guests. 
 The second line contains n integers, t0,t1,...,tn−1, where ti is the arrival time of ith guest.
