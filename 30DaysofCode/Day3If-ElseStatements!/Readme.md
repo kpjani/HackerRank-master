@@ -28,19 +28,23 @@ Print "Weird" if the number is weird. Otherwise, print "Not Weird". Do not print
 **Sample Input 1**
 
 3
+
 **Sample Output 1**
 
 Weird
 
 **Explanation** 
+
 N=3, is odd hence the its a Weird Number.
 
 **Sample Input 2**
 
 24
+
 **Sample Output 2**
 
 Not Weird
 
 **Explanation**
+
 N=24, is >20 hence its not a Weird Number.
