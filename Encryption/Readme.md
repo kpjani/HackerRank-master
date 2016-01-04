@@ -29,18 +29,23 @@ Here are some more examples:
 **Sample Input:**
 
 haveaniceday
+
 **Sample Output:**
 
 hae and via ecy
+
 **Sample Input:**
 
 feedthedog    
+
 **Sample Output:**
 
 fto ehg ee dd
+
 **Sample Input:**
 
 chillout
+
 **Sample Output:**
 
 clu hlt io
