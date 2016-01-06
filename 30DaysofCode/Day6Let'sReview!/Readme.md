@@ -7,7 +7,7 @@ Note: The last line has zero spaces before it.
 
 Good luck!
 
-#**Constraints **
+#**Constraints**
 
 1 ≤ N ≤100
 
@@ -25,9 +25,9 @@ Print a staircase of height N that consists of # symbols and spaces as given in 
 
 #**Sample Output**
 
-     #
-    ##
-   ###
-  ####
- #####
-######
+     *#*
+    *##*
+   *###*
+  *####*
+ *#####*
+*######*
