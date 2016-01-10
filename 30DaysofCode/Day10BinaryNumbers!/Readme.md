@@ -20,10 +20,13 @@ For each test case, print the value of n in binary on a new line.
 #Sample Input
 
 2
+
 4
+
 5
 
 #Sample Output
 
 100
+
 101
