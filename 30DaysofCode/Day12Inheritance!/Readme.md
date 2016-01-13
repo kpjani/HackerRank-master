@@ -4,7 +4,9 @@ You are given two classes, Student and Grade, where Student is the base class an
 
 Complete the Grade class by writing a class constructor (Grade(String,String,int,int)) and a char calculate() method. The calculate method should return the character representative of a Student's *Grade. Score as defined in this chart: 
 
-score.png
+![alt tag](score.png)
+
+
 
 #Input Format
 
