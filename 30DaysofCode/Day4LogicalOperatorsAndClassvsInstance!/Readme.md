@@ -2,7 +2,7 @@
 
 Welcome to Day 4! Check out a video review of logical operations [here](https://www.youtube.com/watch?v=Zj5eD0a6sm4&feature=youtu.be), or just jump right into the problem.
 
-Note: This task is focused on Object Oriented concepts, so it is only enabled in a few languages.
+**Note**: This task is focused on Object Oriented concepts, so it is only enabled in a few languages.
 
 You will create a class Person and write a constructor that takes an integer, initial_Age. In this constructor, you should check that the initial_Age is not negative because we can't have people with negative ages.
 
